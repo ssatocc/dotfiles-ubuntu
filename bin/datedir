@@ -1,0 +1,9 @@
+#!/bin/bash
+
+DIR_NAME=$(date +'%Y%m%d')
+if [ ! -d "$DIR_NAME" ]; then
+    mkdir "$DIR_NAME"
+else
+    echo "Error: Directory '$DIR_NAME' already exists."
+    exit 1
+fi
