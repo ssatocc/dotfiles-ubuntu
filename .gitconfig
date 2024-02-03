@@ -1,0 +1,7 @@
+[user]
+	name = ssatocc
+	email = ssatocc@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
