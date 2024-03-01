@@ -9,6 +9,7 @@ FILES=(
 ".gitconfig"
 ".inputrc"
 ".profile"
+".sqliterc"
 )
 
 # Create a symbolic link if it doesn't exist
