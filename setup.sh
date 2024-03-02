@@ -11,6 +11,7 @@ FILES=(
 ".inputrc"
 ".profile"
 ".sqliterc"
+".vimrc"
 )
 
 # Create a symbolic link if it doesn't exist
