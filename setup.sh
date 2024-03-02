@@ -6,6 +6,7 @@ FILES=(
 ".bash_aliases"
 ".bash_logout"
 ".bashrc"
+".dircolors"
 ".gitconfig"
 ".inputrc"
 ".profile"
