@@ -10,6 +10,7 @@ FILES=(
 ".gitconfig"
 ".inputrc"
 ".profile"
+".screenrc"
 ".sqliterc"
 ".vimrc"
 )
